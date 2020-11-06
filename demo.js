@@ -5,3 +5,5 @@ console.log("Khởi tạo dự án")
 console.log("code new brand")
 
 console.log("da sua Duy2");
+
+console.log("sua roaiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
